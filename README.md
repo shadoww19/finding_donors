@@ -38,10 +38,10 @@
     <meta property="og:image" content="https://avatars1.githubusercontent.com/u/1916665?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="udacity/machine-learning" /><meta property="og:url" content="https://github.com/udacity/machine-learning" /><meta property="og:description" content="Content for Udacity&#39;s Machine Learning curriculum. Contribute to udacity/machine-learning development by creating an account on GitHub." />
 
   <link rel="assets" href="https://github.githubassets.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6Mzg0OTk4OTU1OmQwNjQyOWFlN2RlMWU2ZDFjZTcwNjA4ZWQxNjQ0YTBjNTEzZmExOTM1NjlkZTc1MDM1ZTA2NDY2YTg0NDdjYzQ=--fd23f60fecb00ddf3470b964941c022a8832e710">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6Mzg0OTk4OTU1OjM4ODJiYzExY2JjMDIwNjYwNWE3NjhlZmIyNWM1ZDlmNjA4NmY5MWNhNmFlN2IyOGZmNTYwYzliY2E4Mjc2Njc=--17baa4c5cc72760ce7d336d3b2bcd128a005714b">
   <meta name="pjax-timeout" content="1000">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
-  <meta name="request-id" content="C9C8:3246:6F3E29:C48492:5C9A2309" data-pjax-transient>
+  <meta name="request-id" content="CB32:70B6:6B8640:C2402C:5C9A2683" data-pjax-transient>
 
 
   
@@ -52,7 +52,7 @@
     <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
 
-  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="C9C8:3246:6F3E29:C48492:5C9A2309" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="48758971" /><meta name="octolytics-actor-login" content="shadoww19" /><meta name="octolytics-actor-hash" content="db5de54c0a97f992899aa74e83fc5435df4703659f9754cb4e76628f63b784f8" />
+  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="CB32:70B6:6B8640:C2402C:5C9A2683" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="48758971" /><meta name="octolytics-actor-login" content="shadoww19" /><meta name="octolytics-actor-hash" content="db5de54c0a97f992899aa74e83fc5435df4703659f9754cb4e76628f63b784f8" />
 <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
 
 
@@ -71,7 +71,7 @@
     <meta name="user-login" content="shadoww19">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="ODUzZTA4Y2Y4ZTNkMTk5NGJjMjE5YTliZjExY2U5NTUyODE5NDE4NjI3ZjhhOTM0Y2ZhNmQ1ZTE5MzI3OGYwN3x7InJlbW90ZV9hZGRyZXNzIjoiMTAzLjg0LjIxNC4xNjYiLCJyZXF1ZXN0X2lkIjoiQzlDODozMjQ2OjZGM0UyOTpDNDg0OTI6NUM5QTIzMDkiLCJ0aW1lc3RhbXAiOjE1NTM2MDUzODksImhvc3QiOiJnaXRodWIuY29tIn0=">
+    <meta name="js-proxy-site-detection-payload" content="ZDhiN2QyYzFiNWQxMDE0N2Q3NTRmMDdiNWUwZTQ3NjM1NjlmYzI1ZDY4ZjA2ZGQxYWI1MmUyNWU5NzFmYmRiMnx7InJlbW90ZV9hZGRyZXNzIjoiMTAzLjg0LjIxNC4xNjYiLCJyZXF1ZXN0X2lkIjoiQ0IzMjo3MEI2OjZCODY0MDpDMjQwMkM6NUM5QTI2ODMiLCJ0aW1lc3RhbXAiOjE1NTM2MDYyODEsImhvc3QiOiJnaXRodWIuY29tIn0=">
 
     <meta name="enabled-features" content="UNIVERSE_BANNER,MARKETPLACE_SOCIAL_PROOF,MARKETPLACE_SOCIAL_PROOF_CUSTOMERS,MARKETPLACE_TRENDING_SOCIAL_PROOF,MARKETPLACE_UNVERIFIED_LISTINGS,MARKETPLACE_PLAN_RESTRICTION_EDITOR,NOTIFY_ON_BLOCK,RELATED_ISSUES">
 
@@ -158,7 +158,7 @@
           aria-autocomplete="list"
           aria-controls="jump-to-results"
           aria-label="Search or jump to…"
-          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=eMVbUMnIlwCqlhlYydxklYDeeUvWxT2/JPMSCWrC5jKtbYmQg7n24xg426QuS7mGGXqoQXpKMQIgvQzT+cuqPg=="
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=q3Mz+xQ+ShUe8e1PS2W68jeDFOw+zeSOdR4+xFrzaJF+2+E7Xk8r9qxfL7Os8mfhrifF5pJC6DNxUCAeyfoknQ=="
           spellcheck="false"
           autocomplete="off"
           >
@@ -377,7 +377,7 @@
           
 <div class="js-user-status-container user-status-compact" data-team-hovercards-enabled>
   <details class="js-user-status-details details-reset details-overlay details-overlay-dark">
-    <summary class="btn-link no-underline js-toggle-user-status-edit toggle-user-status-edit width-full" aria-haspopup="dialog" role="menuitem" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:1916665,&quot;target&quot;:&quot;EDIT_USER_STATUS&quot;,&quot;user_id&quot;:48758971,&quot;client_id&quot;:&quot;2006951148.1533906767&quot;,&quot;originating_request_id&quot;:&quot;C9C8:3246:6F3E29:C48492:5C9A2309&quot;,&quot;originating_url&quot;:&quot;https://github.com/udacity/machine-learning/blob/master/projects/finding_donors/README.md&quot;,&quot;referrer&quot;:&quot;https://github.com/udacity/machine-learning/tree/master/projects/finding_donors&quot;}}" data-hydro-click-hmac="39dce5b92746e67a279a3ed3104b2fa0ec963d09ed6ccb3ec8371b61d68a99de">
+    <summary class="btn-link no-underline js-toggle-user-status-edit toggle-user-status-edit width-full" aria-haspopup="dialog" role="menuitem" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:1916665,&quot;target&quot;:&quot;EDIT_USER_STATUS&quot;,&quot;user_id&quot;:48758971,&quot;client_id&quot;:&quot;2006951148.1533906767&quot;,&quot;originating_request_id&quot;:&quot;CB32:70B6:6B8640:C2402C:5C9A2683&quot;,&quot;originating_url&quot;:&quot;https://github.com/udacity/machine-learning/blob/master/projects/finding_donors/README.md&quot;,&quot;referrer&quot;:&quot;https://github.com/udacity/machine-learning/tree/master/projects/finding_donors&quot;}}" data-hydro-click-hmac="515f45ea6c9d7d9cfe564240bd30deeca342fcad1c64afa768628bca535cbeee">
       <div class="f6 d-inline-block v-align-middle  user-status-emoji-only-header pl-0 circle lh-condensed user-status-header " style="max-width: 29px">
         <div class="user-status-emoji-container flex-shrink-0 mr-1">
           <svg class="octicon octicon-smiley" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8s3.58 8 8 8 8-3.58 8-8-3.58-8-8-8zm4.81 12.81a6.72 6.72 0 0 1-2.17 1.45c-.83.36-1.72.53-2.64.53-.92 0-1.81-.17-2.64-.53-.81-.34-1.55-.83-2.17-1.45a6.773 6.773 0 0 1-1.45-2.17A6.59 6.59 0 0 1 1.21 8c0-.92.17-1.81.53-2.64.34-.81.83-1.55 1.45-2.17.62-.62 1.36-1.11 2.17-1.45A6.59 6.59 0 0 1 8 1.21c.92 0 1.81.17 2.64.53.81.34 1.55.83 2.17 1.45.62.62 1.11 1.36 1.45 2.17.36.83.53 1.72.53 2.64 0 .92-.17 1.81-.53 2.64-.34.81-.83 1.55-1.45 2.17zM4 6.8v-.59c0-.66.53-1.19 1.2-1.19h.59c.66 0 1.19.53 1.19 1.19v.59c0 .67-.53 1.2-1.19 1.2H5.2C4.53 8 4 7.47 4 6.8zm5 0v-.59c0-.66.53-1.19 1.2-1.19h.59c.66 0 1.19.53 1.19 1.19v.59c0 .67-.53 1.2-1.19 1.2h-.59C9.53 8 9 7.47 9 6.8zm4 3.2c-.72 1.88-2.91 3-5 3s-4.28-1.13-5-3c-.14-.39.23-1 .66-1h8.59c.41 0 .89.61.75 1z"/></svg>
@@ -387,7 +387,7 @@
           <span class="link-gray">Set your status</span>
       </div>
 </summary>    <details-dialog class="details-dialog rounded-1 anim-fade-in fast Box Box--overlay" role="dialog" tabindex="-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="t3LUybIF4slQdSNMYJgFsRj4tpjHTU5uQvJxOszGIt2Sn3QBsx+0DAaRdwfPgepSnBDOuq19/lAD91KfbnlZnw==" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="ezVdRE+C1MSlEss2SUP32e7xvn7zMyE86cIaOaTQ3Tpe2P2MTpiCAfP2n33mWhg6ahnGXJkDkQKoxzmcBm+meA==" />
         <div class="Box-header bg-gray border-bottom p-3">
           <button class="Box-btn-octicon js-toggle-user-status-edit btn-octicon float-right" type="reset" aria-label="Close dialog" data-close-dialog>
             <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
@@ -503,7 +503,7 @@
         <div role="none" class="dropdown-divider"></div>
         <a role="menuitem" class="dropdown-item" href="https://help.github.com" data-ga-click="Header, go to help, text:help">Help</a>
         <a role="menuitem" class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings">Settings</a>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="aH7N1EY+ABlORBy4S2cXv0j97cVIbywN1x4q39fAuVf9dZpRmfjLqtlgak/EV1S95r11sFE7ZXoeawmapXfXUA==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="4bbgQqFlElGon8Rnc4hDTb34XtzBa5C7OabRwq582St0vbfHfqPZ4j+7spD8uABPE7jGqdg/2czw0/KH3Mu3LA==" />
           
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout" role="menuitem">
             Sign out
@@ -515,7 +515,7 @@
 
 
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="sr-only right-0" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="SB3otv/osCIyxoNI6C3Kb0HGsIXO7nH5+09DFR9I0DLdFr8zIC57kaXi9b9nHYlt74Yo8Ne6OI4yOmBQbf++NQ==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="sr-only right-0" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="NLM1K7JGXqbVoUOC5qh/moPfjIymTQAtCXblv5TssgGhuGKubYCVFUKFNXVpmDyYLZ8U+b8ZSVrAA8b65lvcBg==" />
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -559,10 +559,10 @@
 
 
   <li>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="UGdk1X6LgRiUVSNd0k7T/JOYgaVPQI3xrgwFTf/93zDsXV+9EddgjQwsGjMfVIvl+V8No4zWSDAoudvt6ser4g==" />      <input type="hidden" name="repository_id" id="repository_id" value="50450433" class="form-control" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="SuA0M/hsjuaJKFD85K67icOFFwbMNELM+KaKEthvC0H22g9blzBvcxFRaZIptOOQqUKbAA+ihw1+E1SyzVV/kw==" />      <input type="hidden" name="repository_id" id="repository_id" value="50450433" class="form-control" />
 
       <details class="details-reset details-overlay select-menu float-left">
-        <summary class="btn btn-sm btn-with-count select-menu-button" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:50450433,&quot;client_id&quot;:&quot;2006951148.1533906767&quot;,&quot;originating_request_id&quot;:&quot;C9C8:3246:6F3E29:C48492:5C9A2309&quot;,&quot;originating_url&quot;:&quot;https://github.com/udacity/machine-learning/blob/master/projects/finding_donors/README.md&quot;,&quot;referrer&quot;:&quot;https://github.com/udacity/machine-learning/tree/master/projects/finding_donors&quot;,&quot;user_id&quot;:48758971}}" data-hydro-click-hmac="dd7d6c25ee8e85c469b0edef6eb14be1f94b704af5f508324955adea3b19c4ef" data-ga-click="Repository, click Watch settings, action:blob#show">          <span data-menu-button>
+        <summary class="btn btn-sm btn-with-count select-menu-button" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:50450433,&quot;client_id&quot;:&quot;2006951148.1533906767&quot;,&quot;originating_request_id&quot;:&quot;CB32:70B6:6B8640:C2402C:5C9A2683&quot;,&quot;originating_url&quot;:&quot;https://github.com/udacity/machine-learning/blob/master/projects/finding_donors/README.md&quot;,&quot;referrer&quot;:&quot;https://github.com/udacity/machine-learning/tree/master/projects/finding_donors&quot;,&quot;user_id&quot;:48758971}}" data-hydro-click-hmac="b66a35ce551c28bdee8488fd44f0ee4a63e267ca2e56a9801289fbc905eb462e" data-ga-click="Repository, click Watch settings, action:blob#show">          <span data-menu-button>
               <svg class="octicon octicon-eye v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
               Watch
           </span>
@@ -631,18 +631,18 @@
 
   <li>
       <div class="js-toggler-container js-social-container starring-container on">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/udacity/machine-learning/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="+KY1n2rHWFh0RjCsNZ3Ti1t7WXoj5fRELMF4ZlrYU8fbWw7Wo8KXyw9VqtN/fexYJ3McJd+dlAz6Rajv/wYG2A==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/udacity/machine-learning/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="mLdsZNE2RVRNAzQIfZRT+4bQVeOZLHImj31YxKRJt7+7SlctGDOKxzYQrnc3dGwo+tgQvGVUEm5Z+YhNAZfioA==" />
       <input type="hidden" name="context" value="repository"></input>
-      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Unstar udacity/machine-learning" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:50450433,&quot;client_id&quot;:&quot;2006951148.1533906767&quot;,&quot;originating_request_id&quot;:&quot;C9C8:3246:6F3E29:C48492:5C9A2309&quot;,&quot;originating_url&quot;:&quot;https://github.com/udacity/machine-learning/blob/master/projects/finding_donors/README.md&quot;,&quot;referrer&quot;:&quot;https://github.com/udacity/machine-learning/tree/master/projects/finding_donors&quot;,&quot;user_id&quot;:48758971}}" data-hydro-click-hmac="bac1beed08c622232faf15cd1b737596ce557ec9d8d1e5a676ae18011c3cb0be" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Unstar udacity/machine-learning" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:50450433,&quot;client_id&quot;:&quot;2006951148.1533906767&quot;,&quot;originating_request_id&quot;:&quot;CB32:70B6:6B8640:C2402C:5C9A2683&quot;,&quot;originating_url&quot;:&quot;https://github.com/udacity/machine-learning/blob/master/projects/finding_donors/README.md&quot;,&quot;referrer&quot;:&quot;https://github.com/udacity/machine-learning/tree/master/projects/finding_donors&quot;,&quot;user_id&quot;:48758971}}" data-hydro-click-hmac="18378626a68e78cbce0cfb4444707991640e3becf61c0aeb48a888759f18de38" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
         Unstar
 </button>        <a class="social-count js-social-count" href="/udacity/machine-learning/stargazers"
            aria-label="2694 users starred this repository">
           2,694
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/udacity/machine-learning/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="nB77FmEyvkzkTXGtSbmF6x1uHikBZ4ZgLVldY7GoNHc/P+MUPR2jYkpJs7VHaIb+jG5OdEOxHp3U9rDSNcXjow==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/udacity/machine-learning/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="f8xdnovgpzJOO4qqyTKfSjkkzR/eVnrp864r7YyLjBnc7UWc18+6HOA/SLLH45xfqCSdQpyA4hQKAcZcCOZbzQ==" />
       <input type="hidden" name="context" value="repository"></input>
-      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Star udacity/machine-learning" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:50450433,&quot;client_id&quot;:&quot;2006951148.1533906767&quot;,&quot;originating_request_id&quot;:&quot;C9C8:3246:6F3E29:C48492:5C9A2309&quot;,&quot;originating_url&quot;:&quot;https://github.com/udacity/machine-learning/blob/master/projects/finding_donors/README.md&quot;,&quot;referrer&quot;:&quot;https://github.com/udacity/machine-learning/tree/master/projects/finding_donors&quot;,&quot;user_id&quot;:48758971}}" data-hydro-click-hmac="9a8e47ede9ca596dfeb1841f9e0fae6b4f01e335a10390219bb480046559fec8" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Star udacity/machine-learning" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:50450433,&quot;client_id&quot;:&quot;2006951148.1533906767&quot;,&quot;originating_request_id&quot;:&quot;CB32:70B6:6B8640:C2402C:5C9A2683&quot;,&quot;originating_url&quot;:&quot;https://github.com/udacity/machine-learning/blob/master/projects/finding_donors/README.md&quot;,&quot;referrer&quot;:&quot;https://github.com/udacity/machine-learning/tree/master/projects/finding_donors&quot;,&quot;user_id&quot;:48758971}}" data-hydro-click-hmac="86e88d07a643ee25e2b87b15f351749984f889c2d17696fac54c0d3564ca8e31" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
         Star
 </button>        <a class="social-count js-social-count" href="/udacity/machine-learning/stargazers"
            aria-label="2694 users starred this repository">
@@ -653,8 +653,8 @@
   </li>
 
   <li>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/udacity/machine-learning/fork" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="qerRiarVA0JOoRNQIRRDiAUXqUmQ+PWYWkJXjPZ90BQ2ILYoxtqIvcg5hWmpTy2tQ78N/rPeLOn4WXZx0Y5H0g==" />
-            <button class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:50450433,&quot;client_id&quot;:&quot;2006951148.1533906767&quot;,&quot;originating_request_id&quot;:&quot;C9C8:3246:6F3E29:C48492:5C9A2309&quot;,&quot;originating_url&quot;:&quot;https://github.com/udacity/machine-learning/blob/master/projects/finding_donors/README.md&quot;,&quot;referrer&quot;:&quot;https://github.com/udacity/machine-learning/tree/master/projects/finding_donors&quot;,&quot;user_id&quot;:48758971}}" data-hydro-click-hmac="1fa5d55bdd6d65d6135f56686823928119bc18e67a3a8e8dd4d5d73a798cffd6" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" type="submit" title="Fork your own copy of udacity/machine-learning to your account" aria-label="Fork your own copy of udacity/machine-learning to your account">              <svg class="octicon octicon-repo-forked v-align-text-bottom" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/udacity/machine-learning/fork" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="rCvmkRziHfchbSWiPWqRrL/1nWb1HCCdkpmzHqzpKtIz4YEwcO2WCKf1s5u1Mf+J+V050dY6+ewwgpLjixq9FA==" />
+            <button class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:50450433,&quot;client_id&quot;:&quot;2006951148.1533906767&quot;,&quot;originating_request_id&quot;:&quot;CB32:70B6:6B8640:C2402C:5C9A2683&quot;,&quot;originating_url&quot;:&quot;https://github.com/udacity/machine-learning/blob/master/projects/finding_donors/README.md&quot;,&quot;referrer&quot;:&quot;https://github.com/udacity/machine-learning/tree/master/projects/finding_donors&quot;,&quot;user_id&quot;:48758971}}" data-hydro-click-hmac="e7296f204713434f913ee6b5f43930cf0c29dc66362999a0d2479b9263cb3904" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" type="submit" title="Fork your own copy of udacity/machine-learning to your account" aria-label="Fork your own copy of udacity/machine-learning to your account">              <svg class="octicon octicon-repo-forked v-align-text-bottom" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
               Fork
 </button></form>
     <a href="/udacity/machine-learning/network/members" class="social-count"
@@ -844,13 +844,13 @@
 
     <div>
 
-            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/udacity/machine-learning/edit/master/projects/finding_donors/README.md" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="roRds9GKTtolMZ2tU7pMqAWM+o8+X2yyTVhIE9CRv7PlTRCvaZI97GcYzSTpf7Le8Xt/RGikrc1agdrdwk5/rA==" />
+            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/udacity/machine-learning/edit/master/projects/finding_donors/README.md" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="ouBThty1RqrsthchZ/mB9ZMiY/FnDAmS17bGDQq6CvbpKR6aZK01nK6fR6jdPH+DZ9XmOjH3yO3Ab1TDGGXK6Q==" />
               <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
                 aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
                 <svg class="octicon octicon-pencil" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
               </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/udacity/machine-learning/delete/master/projects/finding_donors/README.md" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="u5oY5zTDa9R3Gk4FrOuh0WJtlm3DfKjEPfxEyEFg8ZqNUKHzZ2GxVYR16EdQfrruU1LrO9ZB+e0pkgyacvyYnQ==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/udacity/machine-learning/delete/master/projects/finding_donors/README.md" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="85XP3suGgpBbkZm8+z/+dCVrYcpXjA3Fx/FV7Z5kA2vFX3bKmCRYEaj+P/4HquVLFFQcnEKxXOzTnx2/rfhqbA==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and delete the file" data-disable-with>
               <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
@@ -936,7 +936,7 @@
 <div class="footer container-lg width-full px-3" role="contentinfo">
   <div class="position-relative d-flex flex-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap ">
-      <li class="mr-3">&copy; 2019 <span title="0.31997s from unicorn-6c6687c48d-j2v8z">GitHub</span>, Inc.</li>
+      <li class="mr-3">&copy; 2019 <span title="0.30391s from unicorn-bcc4b748f-x2csw">GitHub</span>, Inc.</li>
         <li class="mr-3"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
         <li class="mr-3"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
         <li class="mr-3"><a data-ga-click="Footer, go to security, text:security" href="https://github.com/security">Security</a></li>
